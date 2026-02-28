@@ -34,7 +34,7 @@
 ### 快速开始
 ```bash
 # 下载并运行脚本
-curl -sL https://github.com/qianyianyi/keji/blob/master/keji.sh | bash
+curl -sL https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh | bash
 
 # 或者克隆仓库后运行
 git clone https://github.com/qianyianyi/server-management-script.git
