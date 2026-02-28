@@ -36,7 +36,7 @@
 # 下载并运行脚本
 bash -c "$(curl -sL https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh)"
 
-# 下载脚本后运行
+# 或手动下载后执行
 curl -sL -o keji.sh https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh
 chmod +x keji.sh
 bash keji.sh
