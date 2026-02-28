@@ -39,7 +39,7 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/qianyianyi/keji/master/kej
 # 下载脚本后运行
 curl -sL -o keji.sh https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh
 chmod +x keji.sh
-./keji.sh
+bash keji.sh
 ```
 
 ### 快捷命令
