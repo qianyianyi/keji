@@ -1,4 +1,4 @@
-# Server Management Script
+# 科技工具箱
 
 一个功能强大的服务器综合管理脚本，提供多种服务器管理功能。
 
