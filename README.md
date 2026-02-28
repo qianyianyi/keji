@@ -36,11 +36,10 @@
 # 下载并运行脚本
 bash -c "$(curl -sL https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh)"
 
-# 或者克隆仓库后运行
-git clone https://github.com/qianyianyi/server-management-script.git
-cd server-management-script
-chmod +x manage.sh
-./manage.sh
+# 下载脚本后运行
+curl -sL -o keji.sh https://raw.githubusercontent.com/qianyianyi/keji/master/keji.sh
+chmod +x keji.sh
+./keji.sh
 ```
 
 ### 快捷命令
